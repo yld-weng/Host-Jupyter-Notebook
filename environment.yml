@@ -1,0 +1,10 @@
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - ipython
+  - seaborn
+  - matplotlib
+  - numpy
+  - scipy
+  - pandas
