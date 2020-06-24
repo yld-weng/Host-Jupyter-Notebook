@@ -1,7 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yld-weng/hostingJupyterNotebook/master)
 
-# hostingJupyterNotebook
-You can use Github repository to store your Jupyter notebook!
+# Host Jupyter Notebook
+This is an example of using Binder and Github repositories for running live, interactive Jupyter notebooks on the web.
 
 
 # License for data
